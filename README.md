@@ -37,7 +37,7 @@ Kod zawiera następujące zmienne konfiguracyjne dotyczące ekranu:
 ## Testowanie algorytmu
 W kodzie znajduje się przykładowe testowanie algorytmu, które polega na wygenerowaniu losowej listy miast, a następnie zastosowaniu algorytmu przeszukiwania tabu w celu znalezienia najlepszej i najgorszej trasy. Wyniki są wypisywane na standardowe wyjście.
 
-## Animacja
-Po przeprowadzeniu testów, program uruchamia animację za pomocą biblioteki Pygame. Wyświetlane są miasta, najlepsza trasa i najgorsza trasa. Animacja działa, dopóki użytkownik nie zamknie okna.
+## Rysowanie wyniku
+Po przeprowadzeniu testów, program uruchamia okno wizualizacji wyznaczonej trasy za pomocą biblioteki Pygame. Wyświetlane są miasta, najlepsza trasa i najgorsza trasa. Podgląd działa, dopóki użytkownik nie zamknie okna.
 
 ---
